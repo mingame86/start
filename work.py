@@ -15,4 +15,4 @@ if alamat!=+ :
                         print('lotfan faghat  alamat haye + - * / % ** va ... ra vared konid')
 javab = adad_aval,alamat,adad_dovom
 print (javab)
-
+ 
